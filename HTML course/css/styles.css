@@ -1,0 +1,30 @@
+
+body {
+  background-color: #E0D8B0;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style:dotted;
+  width: 5%;
+  border-width: 5px;
+}
+h1 {
+  color: #66BFBF;
+}
+h3 {
+  color: #66BFBF;
+}
+.profileimg {
+  background-color: #FFFBE7;
+  border-width:thick;
+  border-radius: 100px;
+}
+
+.profile {  background-color: #FCFFE7;
+
+}
+
+.Name {font-style: italic;
+      color: #F76B8A;
+}
